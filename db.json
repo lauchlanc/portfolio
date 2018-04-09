@@ -37,7 +37,7 @@
           "lead": "My Humans vs. Zombies, predator prey simulation, is an excellent example of the techniques I have learned while developing in C++. This application displays my knowledge of operator overloading, polymorphism and code efficiency.",
           "img": "img/zombie.png",
           "alt": "Zombie Kid",
-          "link": "https://github.com/w0178837"
+          "link": ""
         }
       ]
     },
@@ -54,7 +54,8 @@
           "heading": "Example: Custom Social Media Site",
           "lead": "The best example of my experience in PHP is a Custom Social Media Site I made for sharing videos. Using laravel, I built a webpage with both a backend and frontend, using middleware to control access. I was also able to live-update the feed with short-polling.",
           "img": "img/laravel.png",
-          "alt": "Laravel Logo"
+          "alt": "Laravel Logo",
+          "link": ""
         }
       ]
     },
@@ -71,7 +72,8 @@
           "heading": "Example: E-Commerce Web Application",
           "lead": "Using EE4J and Primefaces within a Maven project, I delivered a fully functioning E-Commerce Web Application which utilizes JDBC to access a MySQL database, and simultaneously makes rest calls to a Jersey Backend.",
           "img": "img/maven.png",
-          "alt": "Apache Maven"
+          "alt": "Apache Maven",
+          "link": ""
         }
       ]
     },
@@ -88,7 +90,8 @@
           "heading": "Example: UWP Application",
           "lead": "One of my final projects was a UWP Application which utilizes the Media Wiki API to search and browse wikipedia pages.",
           "img": "img/mediawiki.png",
-          "alt": "Media Wiki"
+          "alt": "Media Wiki",
+          "link": ""
         }
       ]
     },
@@ -106,14 +109,14 @@
           "lead": "In December of 2016, I developed a Three-Part Chord calculator to help with my music practice. Using PyQt5, and Python 3, I developed a GUI to display and output every three-part chord, in all inversions and positions in every key, major and minor.",
           "img": "img/pythondev.png",
           "alt": "Python Development",
-          "link": "https://github.com/w0178837"
+          "link": ""
         },
         {
           "heading": "Example: MNIST Handwritten Digit Recognition",
           "lead": "Using the MNIST Database of Handwritten Digits, and the eBook by Michael Neilsen, Neural Networks and Deep Learning, I was part of a project to use a Neural Network which can recognize handwritten digits.",
           "img": "img/ml.png",
           "alt": "Neural Network",
-          "link": "https://github.com/w0178837"
+          "link": ""
         }
       ]
     },
