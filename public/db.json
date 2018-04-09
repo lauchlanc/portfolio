@@ -1,0 +1,201 @@
+{
+  "pages": [
+    {
+      "name": "Main",
+      "sections": [
+        {
+          "heading": "Real-world Development experience",
+          "lead": "In addition to my education at NSCC, I was able to secure a co-operative work experience with Freewheeling Adventures where I completed two development projects for their database. Applying my technical knowledge to real-world business needs proved to be one of the best learning experiences I've had to date.",
+          "img": "img/erd.png",
+          "alt": "Entity Relationship Diagram"
+        },
+        {
+          "heading": "Where do I want to be?",
+          "lead": "I have an entrepreneurial orientation, and want to put this to use in my career as a developer.<br/>I will continue to work on my own projects, and want to be a part of an organization that promotes individuality, where I can share in the success and mourn their failures.",
+          "img": "img/code.png",
+          "alt": "Programmatic Code"
+        },
+        {
+          "heading": "A Motivated and Project-Oriented Employee",
+          "lead": "I have always followed my passion, and making development my career is no different.<br/>My motivation to solve problems and understand systems has led me through studies in math and music, and is culminating in my career as a programmer.",
+          "img": "img/me.png",
+          "alt": "Lauchlan Chisholm"
+        }
+      ]
+    },
+    {
+      "name": "C++",
+      "sections": [
+        {
+          "heading": "Well Grounded in C++ Practices",
+          "lead": "While studying C++, I was exposed to industry best-practices and protocols. Given interesting mental-challenges, I was able to produce applications which display my knowledge of data structures, code-efficiency and my ability to creatively solve problems",
+          "img": "img/c++.png",
+          "alt": "C++ Language"
+        },
+        {
+          "heading": "Example: Predator Prey Simulation",
+          "lead": "My Humans vs. Zombies, predator prey simulation, is an excellent example of the techniques I have learned while developing in C++. This application displays my knowledge of operator overloading, polymorphism and code efficiency.",
+          "img": "img/zombie.png",
+          "alt": "Zombie Kid",
+          "link": "https://github.com/w0178837"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "sections": [
+        {
+          "heading": "Knowledge From the Ground Up",
+          "lead": "During my time at NSCC, I have had a breadth of exposure to the versatility of PHP.<br/>Learning the fundamentals of the language, and how to utilize the extended PHP functionality, was a perfect lead-in to learning the Laravel framework.",
+          "img": "img/php.jpg",
+          "alt": "PHP Language"
+        },
+        {
+          "heading": "Example: Custom Social Media Site",
+          "lead": "The best example of my experience in PHP is a Custom Social Media Site I made for sharing videos. Using laravel, I built a webpage with both a backend and frontend, using middleware to control access. I was also able to live-update the feed with short-polling.",
+          "img": "img/laravel.png",
+          "alt": "Laravel Logo"
+        }
+      ]
+    },
+    {
+      "name": "Java / EE4J",
+      "sections": [
+        {
+          "heading": "Scaled for Enterprise",
+          "lead": "Java was the language where I first learned Object Oriented programming, and from there learned to program for enterprise edition. I have had experience developing numerous applications and am confident I can deliver business requirements with this increasingly powerful language.",
+          "img": "img/java_ee.png",
+          "alt": "Java Enterprise Edition"
+        },
+        {
+          "heading": "Example: E-Commerce Web Application",
+          "lead": "Using EE4J and Primefaces within a Maven project, I delivered a fully functioning E-Commerce Web Application which utilizes JDBC to access a MySQL database, and simultaneously makes rest calls to a Jersey Backend.",
+          "img": "img/maven.png",
+          "alt": "Apache Maven"
+        }
+      ]
+    },
+    {
+      "name": "C#",
+      "sections": [
+        {
+          "heading": "Advanced OOP and Windows Development",
+          "lead": "C# was a major focus of my studies at NSCC, where I used the .NET framework to learn concepts like multi-threading, and dependency injection with IOC containers.",
+          "img": "img/dotnet.png",
+          "alt": "Dot Net Framework"
+        },
+        {
+          "heading": "Example: UWP Application",
+          "lead": "One of my final projects was a UWP Application which utilizes the Media Wiki API to search and browse wikipedia pages.",
+          "img": "img/mediawiki.png",
+          "alt": "Media Wiki"
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "sections": [
+        {
+          "heading": "Foundation and Inspiration",
+          "lead": "Python was the first programming language I learned. It was my initial exposure to programmatic logic, and was the inspiration for me to pursue development as a career. Since that time I have begun working through Project Euler and started learning machine learning via Lynda.com and Coursera.",
+          "img": "img/pythonlogo.png",
+          "alt": "Python Logo"
+        },
+        {
+          "heading": "Example: Three-Part Chord Calculator",
+          "lead": "In December of 2016, I developed a Three-Part Chord calculator to help with my music practice. Using PyQt5, and Python 3, I developed a GUI to display and output every three-part chord, in all inversions and positions in every key, major and minor.",
+          "img": "img/pythondev.png",
+          "alt": "Python Development",
+          "link": "https://github.com/w0178837"
+        },
+        {
+          "heading": "Example: MNIST Handwritten Digit Recognition",
+          "lead": "Using the MNIST Database of Handwritten Digits, and the eBook by Michael Neilsen, Neural Networks and Deep Learning, I was part of a project to use a Neural Network which can recognize handwritten digits.",
+          "img": "img/ml.png",
+          "alt": "Neural Network",
+          "link": "https://github.com/w0178837"
+        }
+      ]
+    },
+    {
+      "name": "Sass",
+      "sections": [
+        {
+          "heading": "Web Styling",
+          "lead": "Having had familiarity with CSS for a number of years it has been a revelation to be introduced to Sass. The ability to finally treat styling as another programmatic language makes working with CSS as exciting as the other languages I have come to love.",
+          "img": "img/sass.svg",
+          "alt": "Sass Logo",
+          "link": "https://docs.google.com/document/d/1eXHWbe9g59JnuW5OMmh3D9OqM2xXSjljGp2wV4pOEvQ/edit?usp=sharing",
+          "linkDescription": "See my learning narrative here"
+        },
+        {
+          "heading": "Example: Sass-styled Page",
+          "lead": "Working through the Lynda.com tutorial by Ray Villalobos, I was able to trans-pile a simple CSS file using Sass methodology and mixins.",
+          "img": "img/lynda.svg",
+          "alt": "Lynda Online Learning",
+          "link": "https://github.com/w0178837/mySass"
+        }
+      ]
+    },
+    {
+      "name": "SQL",
+      "sections": [
+        {
+          "heading": "Data Driven Application Developer",
+          "lead": "During the summer of 2017, I was able to secure a co-operative education position with a local business, Freewheeling Adventures, where I was able to put my learning to use as a Database Developer.",
+          "img": "img/database.png",
+          "alt": "Database"
+        },
+        {
+          "heading": "Example: Data-Normalization Project",
+          "lead": "During my time with Freewheeling I was able to complete two major projects. One of which was a database normalization and migration for their Inn Management system. I was able to build new tools to utilize the data, and save hours of work by producing valuable reports and embedded protocols with the new database structure.",
+          "img": "img/erd.png",
+          "alt": "Entity Relationship Diagram"
+        }
+      ]
+    },
+    {
+      "name": "NoSQL / MongoDB",
+      "sections": [
+        {
+          "heading": "Not Only SQL",
+          "lead": "After having learned the essentials of Relational Database systems, wrapping my head around the principles of NoSQL was initially a mind-warp. But after grasping the 'in-memory' aspect, I have come to recognize the power and potential of NoSQL Databases",
+          "img": "img/json.png",
+          "alt": "JSON Logo"
+        },
+        {
+          "heading": "Example: Node.js Backend With MongoDB",
+          "lead": "Using the concept of a simple content sharing site, I worked on a project to create a RESTful API using Node.js and MongoDB",
+          "img": "img/mongodb.png",
+          "alt": "Mongo DB",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "name": "JavaScript / JS Frameworks",
+      "sections": [
+        {
+          "heading": "Vanilla, jQuery, and beyond",
+          "lead": "Following a structured path, I learned vanilla JavaScript first, followed by jQuery, and am now applying that knowledge towards learning frameworks like React, Vue, and Angular.",
+          "img": "img/js.png",
+          "alt": "JavaScript Logo"
+        },
+        {
+          "heading": "Example: Vanilla Maze-Game",
+          "lead": "Using my knowledge of Vanilla JavaScript, I built a maze-game entirely in JS, which you can try for yourself.",
+          "img": "img/maze.png",
+          "alt": "Maze",
+	  "link": ""
+        },
+	{
+          "heading": "Example: React Framework",
+          "lead": "This entire portfolio has been written in react, initially pulling the data you are reading now from a JSON file, however I have an additonal example in the form of a front-end content sharing site, which makes calls to a Node.js backend.",
+          "img": "img/react.png",
+          "alt": "React.js",
+	  "link": ""
+        }
+      ]
+    }
+  ]
+}
